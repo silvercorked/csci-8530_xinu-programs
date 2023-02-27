@@ -1,4 +1,4 @@
-### CSCI-8530 Advanced Operating Systems - Xinu Programs Homework
+# CSCI-8530 Advanced Operating Systems - Xinu Programs Homework
 This repository contains is for accomplishing class assignments which require changing or adding to the xinu operating system.
 
 ## To Compile
