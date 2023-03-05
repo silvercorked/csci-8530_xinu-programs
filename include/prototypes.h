@@ -1,3 +1,14 @@
+
+/* csci 8530 defined */
+/* in file system/printsegaddress.c */
+extern void printsegaddress();
+
+/* in file system/stackdepth.c */
+extern int stackdepth();
+extern void stackdepthTestFunc1();
+
+/* end csci 8530 defined */
+
 /* in file addargs.c */
 extern	status	addargs(pid32, int32, int32[], int32,char *, void *);
 

@@ -1,0 +1,7 @@
+
+compile/binaries/
+compile/version
+compile/xinu
+compile/xinu.elf
+compile/xinu.map
+

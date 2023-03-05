@@ -13,6 +13,10 @@ process	main(void)
 
 	nsaddr = 0x800a0c10;
 
+	// test for program 1
+	printsegaddress();
+	stackdepthTestFunc1();
+
 	recvclr();
 	resume(create(shell, 8192, 50, "shell", 1, CONSOLE));
 
